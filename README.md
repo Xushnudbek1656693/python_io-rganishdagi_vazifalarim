@@ -1,1 +1,1 @@
-# python_io-rganishdagi_vazifalarim
+# python_organishdagi_vazifalarim
